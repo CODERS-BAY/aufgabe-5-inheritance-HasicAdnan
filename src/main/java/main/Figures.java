@@ -6,6 +6,7 @@ public class Figures {
         // Uncomment the code below when you are done implementing
 
         /*
+
         MyCircle c1 = new MyCircle("blue",7);
         System.out.println(c1.getDescription());
 
